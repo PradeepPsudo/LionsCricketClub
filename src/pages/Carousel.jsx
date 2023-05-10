@@ -7,7 +7,36 @@ function importAll(r) {
     return r.keys().map(r);
   }
   
-  const images = importAll(require.context('../assets', false, /\.(png|jpe?g|svg|JPG)$/));
+  //const images = importAll(require.context('../assets', false, /\.(png|jpe?g|svg|JPG)$/));
+ const images=[
+    {
+        default:"./images/assets/IMG_7957.JPG"
+    },
+    {
+        default:"./images/assets/IMG_7962.JPG"
+    },
+    {
+        default:"./images/assets/IMG_7963.JPG"
+    },
+    {
+        default:"./images/assets/IMG_8002.JPG"
+    },
+    {
+        default:"./images/assets/IMG_8003.JPG"
+    },
+    {
+        default:"./images/assets/IMG_8012.JPG"
+    },
+    {
+        default:"./images/assets/IMG_8177.JPG"
+    },
+    {
+        default:"./images/assets/season1.jpeg"
+    },
+    {
+        default:"./images/assets/season2.jpg"
+    }
+ ]
   debugger;
 
 function Item(props)
