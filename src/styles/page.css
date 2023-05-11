@@ -431,7 +431,7 @@ and (max-device-width: 1000px)
   } */
 
   .animatedDiv{
-    font-size: 21px;
+    /* font-size: 21px;
     font-weight: bolder;
     font-style: oblique;
     font-family: cursive;
@@ -441,13 +441,27 @@ and (max-device-width: 1000px)
     display: block;
     text-align: center;
     padding:17px;
+    line-height: 30px !important; */
+
+
+    font-size: 21px !important;
+    font-weight: bolder !important;
+    font-style: oblique !important;
+    font-family: cursive !important;
+    font-variant: stacked-fractions !important;
+    text-decoration-thickness: from-font  !important;
+    color: ivory !important;
+    display: block !important;
+    text-align: center !important;
+    padding:17px !important;
+    animation: mymove 10s infinite;
     line-height: 30px !important;
     /* animation: mymove 10s infinite; */
   }
-  @keyframes mymove {
+  /* @keyframes mymove {
     from {left: 0px;}
     to {left: 1000px;}
-  }
+  } */
 
 
   /* .animatedDiv{
