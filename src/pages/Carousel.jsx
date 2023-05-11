@@ -43,7 +43,7 @@ function Item(props)
 {
     return (
         <Paper className="imageClass">
-             <Typography className="lions-club-text zoom-in-out-box">Lions cricket club</Typography>
+             <Typography className="lions-club-text zoom-in-out-box" data-text="Lions cricket club">Lions cricket club</Typography>
              {/* <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg"> */}
              <img  className="imgClass" src={props.item.default}/>
              {/* </svg> */}

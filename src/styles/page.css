@@ -31,8 +31,11 @@
     padding: 2px;
     /* width: 200% !important; */
 
-    height: 458px !important;
-    width: 317px !important;
+    /* height: 458px !important;
+    width: 317px !important; */
+
+    height: 408px !important;
+    width: 298px !important;
 
 
     /* height: 850px !important;
@@ -167,7 +170,9 @@
   display: block !important;
   text-align: center !important;
   padding:17px !important;
+  animation: mymove 10s infinite;
 }
+
   /* .animatedDiv{
     background: #92B901;
     color: #ffffff;
@@ -217,13 +222,27 @@
   font-size: 21px !important;
   color: darkblue  !important;
   font-weight: bolder !important;
-  width: 100%;
+  /* width: 69%; */
   position: absolute;
   top: 20%;
-  left: 76%;
-  transform: translate(-50%, -50%);
+  left: 5%;
+  /* transform: translate(-50%, -50%); */
+  font-size: 30px !important;
+    font-weight: bolder !important;
+    font-style: oblique !important;
+    font-family: cursive !important;
+    font-variant: stacked-fractions !important;
+    text-decoration-thickness: from-font !important;
+    color: navy !important;
+    display: block !important;
+    /* animation: mymove 4s infinite; */
+    /* animation: mymove 4s linear infinite; */
+  }
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 100px;}
+  }
 
-}
 
 .zoom-in-out-box {
   /* margin: 24px;
@@ -231,7 +250,7 @@
   height: 50px; */
   /* background: 
 #f500cc; */
-  position: relative;
+  /* position: relative;
   font-family: sans-serif;
   text-transform: uppercase;
   font-size: 2em;
@@ -242,8 +261,37 @@
   background-size: 80%;
   animation: animate 4s linear infinite;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  -webkit-text-fill-color: rgba(255, 255, 255, 0); */
+
+    position: relative;
+    font-size: 14vw;
+    color: #252839;
+    -webkit-text-stroke: 0.3vw #383d52;
+    text-transform: uppercase;
 }
+zoom-in-out-box::before{
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #01fe87;
+    -webkit-text-stroke: 0vw #383d52;
+    border-right: 2px solid #01fe87;
+    overflow: hidden;
+    animation: animate 6s linear infinite;
+
+}
+@keyframes animate{
+    0%,10%,100%{
+        width: 0;
+    }
+    70%,90%{
+        width: 100%;
+    }
+}
+
 
 @keyframes animate {
   0% {
@@ -393,6 +441,12 @@ and (max-device-width: 1000px)
     display: block;
     text-align: center;
     padding:17px;
+    line-height: 30px !important;
+    /* animation: mymove 10s infinite; */
+  }
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 1000px;}
   }
 
 

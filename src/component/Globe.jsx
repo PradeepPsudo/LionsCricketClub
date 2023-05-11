@@ -18,7 +18,7 @@ function CreateGlobe(){
             <img src="./images/javagalsrinath/Yogi-min.jpeg"/>
         </div>
         <span className="glowing-text  team-text">
-        Team:Javagal Srinath 
+        Javagal Srinath 
         </span>
         <div className="sphere">
             <img src="./images/teamvenkateshprasad/adarsh-min.jpg"/>
@@ -34,7 +34,7 @@ function CreateGlobe(){
             <img src="./images/teamvenkateshprasad/vinay-min.jpg"/>
         </div>
         <span className="glowing-text  team-text">
-        Team:Venkatesh Prasad 
+        Venkatesh Prasad 
         </span>
         
         <div className="sphere">
@@ -51,7 +51,7 @@ function CreateGlobe(){
             <img src="./images/chandrashekar/Varun-min.jpeg"/>
         </div>
         <span className="glowing-text  team-text">
-        Team:Chandra Shekar 
+        Chandra Shekar 
         </span>
         <div className="sphere">
             <img src="./images/vishwanath/Balu-min.jpg"/>
@@ -67,7 +67,7 @@ function CreateGlobe(){
             <img src="./images/vishwanath/Yogi-min.jpg"/>
         </div>
         <span className="glowing-text  team-text">
-        Team:Vishwanath 
+        Vishwanath 
         </span>
 
         <div className="sphere">
@@ -84,7 +84,7 @@ function CreateGlobe(){
             <img src="./images/rahuldravid/Yogi-min.jpg"/>
         </div>
         <span className="glowing-text  team-text">
-        Team:Rahul Dravid 
+        Rahul Dravid 
         </span>
         <div className="sphere">
             <img src="./images/anilkumble/Madan-min.jpeg"/>
@@ -100,7 +100,7 @@ function CreateGlobe(){
             <img src="./images/anilkumble/Vivek-min.jpeg"/>
         </div>
         <span className="glowing-text  team-text">
-        Team:Anil Kumble 
+        Anil Kumble 
         </span>
         
         </>
