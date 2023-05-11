@@ -429,6 +429,7 @@ and (max-device-width: 1000px)
   .team-list-container{
     width: 85%;
     color: white !important;
+    height: 100px;
   }
   .page{
     height:100vh;

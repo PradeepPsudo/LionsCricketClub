@@ -78,8 +78,8 @@ function CreateGlobe(){
             <img src="./images/rahuldravid/Manu-min.jpeg"/>
             <img src="./images/rahuldravid/Sanjy-min.jpeg"/>
             <img src="./images/rahuldravid/Venki-min.jpeg"/>
-            <img src="./images/rahuldravid/Murali-min.jpg"/>
-            <img src="./images/rahuldravid/Praveen-min.jpg"/>
+            <img src="./images/rahuldravid/Suresh-min.jpg"/>
+            <img src="./images/rahuldravid/Ganga-min.jpg"/>
             <img src="./images/rahuldravid/Sagar-min.jpg"/>
             <img src="./images/rahuldravid/Yogi-min.jpg"/>
         </div>
