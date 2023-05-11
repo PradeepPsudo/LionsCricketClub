@@ -223,7 +223,8 @@
 #root{
   background: black;
   margin-bottom: 28px;
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 .team-name-image{
   float: right;
@@ -429,10 +430,9 @@ and (max-device-width: 1000px)
   .team-list-container{
     width: 85%;
     color: white !important;
-    height: 100px;
   }
   .page{
-    height:100vh;
+    height:87vh;
   }
   .imageClass{
     height:80vh;
