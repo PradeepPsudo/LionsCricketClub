@@ -5,99 +5,99 @@ function CreateGlobe(){
     return(
         <>
        <div className="sphere">
-            <img src="./images/javagalsrinath/Darshan.jpeg"/>
-            <img src="./images/javagalsrinath/Ganesh.jpeg"/>
-            <img src="./images/javagalsrinath/Giri.jpeg"/>
-            <img src="./images/javagalsrinath/Pradeep.jpeg"/>
-            <img src="./images/javagalsrinath/PradeepGowda.jpeg"/>
-            <img src="./images/javagalsrinath/Shamanth.jpeg"/>
-            <img src="./images/javagalsrinath/Shashu.jpeg"/>
-            <img src="./images/javagalsrinath/Shivu.jpeg"/>
-            <img src="./images/javagalsrinath/ShivuPoland.jpeg"/>
-            <img src="./images/javagalsrinath/Sunil.jpeg"/>
-            <img src="./images/javagalsrinath/Yogi.jpeg"/>
+            <img src="./images/javagalsrinath/Darshan-min.jpeg"/>
+            <img src="./images/javagalsrinath/Ganesh-min.jpeg"/>
+            <img src="./images/javagalsrinath/Giri-min.jpeg"/>
+            <img src="./images/javagalsrinath/Pradeep-min.jpeg"/>
+            <img src="./images/javagalsrinath/PradeepGowda-min.jpeg"/>
+            <img src="./images/javagalsrinath/Shamanth-min.jpeg"/>
+            <img src="./images/javagalsrinath/Shashu-min.jpeg"/>
+            <img src="./images/javagalsrinath/Shivu-min.jpeg"/>
+            <img src="./images/javagalsrinath/ShivuPoland-min.jpeg"/>
+            <img src="./images/javagalsrinath/Sunil-min.jpeg"/>
+            <img src="./images/javagalsrinath/Yogi-min.jpeg"/>
         </div>
         <span className="glowing-text  team-text">
         Team:Javagal Srinath 
         </span>
         <div className="sphere">
-            <img src="./images/teamvenkateshprasad/adarsh.jpg"/>
-            <img src="./images/teamvenkateshprasad/babanna.jpg"/>
-            <img src="./images/teamvenkateshprasad/chethu.jpg"/>
-            <img src="./images/teamvenkateshprasad/divi.jpg"/>
-            <img src="./images/teamvenkateshprasad/harsha.jpg"/>
-            <img src="./images/teamvenkateshprasad/lakshan.jpg"/>
-            <img src="./images/teamvenkateshprasad/maheshwara.jpg"/>
-            <img src="./images/teamvenkateshprasad/pravi.jpg"/>
-            <img src="./images/teamvenkateshprasad/sathi.jpg"/>
-            <img src="./images/teamvenkateshprasad/satish.jpg"/>
-            <img src="./images/teamvenkateshprasad/vinay.jpg"/>
+            <img src="./images/teamvenkateshprasad/adarsh-min.jpg"/>
+            <img src="./images/teamvenkateshprasad/babanna-min.jpg"/>
+            <img src="./images/teamvenkateshprasad/chethu-min.jpg"/>
+            <img src="./images/teamvenkateshprasad/divi-min.jpg"/>
+            <img src="./images/teamvenkateshprasad/harsha-min.jpg"/>
+            <img src="./images/teamvenkateshprasad/lakshan-min.jpg"/>
+            <img src="./images/teamvenkateshprasad/maheshwara-min.jpg"/>
+            <img src="./images/teamvenkateshprasad/pravi-min.jpg"/>
+            <img src="./images/teamvenkateshprasad/sathi-min.jpg"/>
+            <img src="./images/teamvenkateshprasad/satish-min.jpg"/>
+            <img src="./images/teamvenkateshprasad/vinay-min.jpg"/>
         </div>
         <span className="glowing-text  team-text">
         Team:Venkatesh Prasad 
         </span>
         
         <div className="sphere">
-            <img src="./images/chandrashekar/Basavaraju.jpeg"/>
-            <img src="./images/chandrashekar/Hemanth.jpeg"/>
-            <img src="./images/chandrashekar/Kiran.jpeg"/>
-            <img src="./images/chandrashekar/Madesh.jpeg"/>
-            <img src="./images/chandrashekar/Manju.jpeg"/>
-            <img src="./images/chandrashekar/Manoj.jpeg"/>
-            <img src="./images/chandrashekar/Narayan.jpeg"/>
-            <img src="./images/chandrashekar/Puneeth.jpeg"/>
-            <img src="./images/chandrashekar/Sandeep.jpeg"/>
-            <img src="./images/chandrashekar/Shanthu.jpeg"/>
-            <img src="./images/chandrashekar/Varun.jpeg"/>
+            <img src="./images/chandrashekar/Basavaraju-min.jpeg"/>
+            <img src="./images/chandrashekar/Hemanth-min.jpeg"/>
+            <img src="./images/chandrashekar/Kiran-min.jpeg"/>
+            <img src="./images/chandrashekar/Madesh-min.jpeg"/>
+            <img src="./images/chandrashekar/Manju-min.jpeg"/>
+            <img src="./images/chandrashekar/Manoj-min.jpeg"/>
+            <img src="./images/chandrashekar/Narayan-min.jpeg"/>
+            <img src="./images/chandrashekar/Puneeth-min.jpeg"/>
+            <img src="./images/chandrashekar/Sandeep-min.jpeg"/>
+            <img src="./images/chandrashekar/Shanthu-min.jpeg"/>
+            <img src="./images/chandrashekar/Varun-min.jpeg"/>
         </div>
         <span className="glowing-text  team-text">
         Team:Chandra Shekar 
         </span>
         <div className="sphere">
-            <img src="./images/vishwanath/Balu.jpg"/>
-            <img src="./images/vishwanath/Deepak.jpg"/>
-            <img src="./images/vishwanath/Jeevan.jpg"/>
-            <img src="./images/vishwanath/Kiran.jpg"/>
-            <img src="./images/vishwanath/Krishitva.jpg"/>
-            <img src="./images/vishwanath/Madhusudhan.jpg"/>
-            <img src="./images/vishwanath/Malli.jpg"/>
-            <img src="./images/vishwanath/Murali.jpg"/>
-            <img src="./images/vishwanath/Praveen.jpg"/>
-            <img src="./images/vishwanath/Sagar.jpg"/>
-            <img src="./images/vishwanath/Yogi.jpg"/>
+            <img src="./images/vishwanath/Balu-min.jpg"/>
+            <img src="./images/vishwanath/Deepak-min.jpg"/>
+            <img src="./images/vishwanath/Jeevan-min.jpg"/>
+            <img src="./images/vishwanath/Kiran-min.jpg"/>
+            <img src="./images/vishwanath/Krishitva-min.jpg"/>
+            <img src="./images/vishwanath/Madhusudhan-min.jpg"/>
+            <img src="./images/vishwanath/Malli-min.jpg"/>
+            <img src="./images/vishwanath/Murali-min.jpg"/>
+            <img src="./images/vishwanath/Praveen-min.jpg"/>
+            <img src="./images/vishwanath/Sagar-min.jpg"/>
+            <img src="./images/vishwanath/Yogi-min.jpg"/>
         </div>
         <span className="glowing-text  team-text">
         Team:Vishwanath 
         </span>
 
         <div className="sphere">
-            <img src="./images/rahuldravid/BPL_Mahesh.jpeg"/>
-            <img src="./images/rahuldravid/CBR.jpg"/>
-            <img src="./images/rahuldravid/Dev.jpeg"/>
-            <img src="./images/rahuldravid/Madhusudhan.jpeg"/>
-            <img src="./images/rahuldravid/Manu.jpeg"/>
-            <img src="./images/rahuldravid/Sanjy.jpeg"/>
-            <img src="./images/rahuldravid/Venki.jpeg"/>
-            <img src="./images/rahuldravid/Murali.jpg"/>
-            <img src="./images/rahuldravid/Praveen.jpg"/>
-            <img src="./images/rahuldravid/Sagar.jpg"/>
-            <img src="./images/rahuldravid/Yogi.jpg"/>
+            <img src="./images/rahuldravid/BPL_Mahesh-min.jpeg"/>
+            <img src="./images/rahuldravid/CBR-min.jpg"/>
+            <img src="./images/rahuldravid/Dev-min.jpeg"/>
+            <img src="./images/rahuldravid/Madhusudhan-min.jpeg"/>
+            <img src="./images/rahuldravid/Manu-min.jpeg"/>
+            <img src="./images/rahuldravid/Sanjy-min.jpeg"/>
+            <img src="./images/rahuldravid/Venki-min.jpeg"/>
+            <img src="./images/rahuldravid/Murali-min.jpg"/>
+            <img src="./images/rahuldravid/Praveen-min.jpg"/>
+            <img src="./images/rahuldravid/Sagar-min.jpg"/>
+            <img src="./images/rahuldravid/Yogi-min.jpg"/>
         </div>
         <span className="glowing-text  team-text">
         Team:Rahul Dravid 
         </span>
         <div className="sphere">
-            <img src="./images/anilkumble/Madan.jpeg"/>
-            <img src="./images/anilkumble/Mahanthesh.jpeg"/>
-            <img src="./images/anilkumble/Manjanna.jpeg"/>
-            <img src="./images/anilkumble/ManjunathHN.jpeg"/>
-            <img src="./images/anilkumble/Pavan.jpeg"/>
-            <img src="./images/anilkumble/Ram.jpeg"/>
-            <img src="./images/anilkumble/Sachi.jpeg"/>
-            <img src="./images/anilkumble/Santhosh.jpeg"/>
-            <img src="./images/anilkumble/SunilDJ.jpeg"/>
-            <img src="./images/anilkumble/Thippesh.jpeg"/>
-            <img src="./images/anilkumble/Vivek.jpeg"/>
+            <img src="./images/anilkumble/Madan-min.jpeg"/>
+            <img src="./images/anilkumble/Mahanthesh-min.jpeg"/>
+            <img src="./images/anilkumble/Manjanna-min.jpeg"/>
+            <img src="./images/anilkumble/ManjunathHN-min.jpeg"/>
+            <img src="./images/anilkumble/Pavan-min.jpeg"/>
+            <img src="./images/anilkumble/Ram-min.jpeg"/>
+            <img src="./images/anilkumble/Sachi-min.jpeg"/>
+            <img src="./images/anilkumble/Santhosh-min.jpeg"/>
+            <img src="./images/anilkumble/SunilDJ-min.jpeg"/>
+            <img src="./images/anilkumble/Thippesh-min.jpeg"/>
+            <img src="./images/anilkumble/Vivek-min.jpeg"/>
         </div>
         <span className="glowing-text  team-text">
         Team:Anil Kumble 

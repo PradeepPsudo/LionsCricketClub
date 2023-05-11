@@ -10,31 +10,31 @@ function importAll(r) {
   //const images = importAll(require.context('../assets', false, /\.(png|jpe?g|svg|JPG)$/));
  const images=[
     {
-        default:"./images/assets/IMG_7957.JPG"
+        default:"./images/compressjpeg/IMG_7957-min.JPG"
     },
     {
-        default:"./images/assets/IMG_7962.JPG"
+        default:"./images/compressjpeg/IMG_7962-min.JPG"
     },
     {
-        default:"./images/assets/IMG_7963.JPG"
+        default:"./images/compressjpeg/IMG_7963-min.JPG"
     },
     {
-        default:"./images/assets/IMG_8002.JPG"
+        default:"./images/compressjpeg/IMG_8002-min.JPG"
     },
     {
-        default:"./images/assets/IMG_8003.JPG"
+        default:"./images/compressjpeg/IMG_8003-min.JPG"
     },
     {
-        default:"./images/assets/IMG_8012.JPG"
+        default:"./images/compressjpeg/IMG_8012-min.JPG"
     },
     {
-        default:"./images/assets/IMG_8177.JPG"
+        default:"./images/compressjpeg/IMG_8177-min.JPG"
     },
     {
-        default:"./images/assets/season1.jpeg"
+        default:"./images/compressjpeg/season1-min.JPG"
     },
     {
-        default:"./images/assets/season2.jpg"
+        default:"./images/compressjpeg/season2-min.JPG"
     }
  ]
   debugger;
@@ -44,7 +44,10 @@ function Item(props)
     return (
         <Paper className="imageClass">
              <Typography className="lions-club-text zoom-in-out-box">Lions cricket club</Typography>
-                 <img  className="imgClass" src={props.item.default}/>
+             {/* <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg"> */}
+             <img  className="imgClass" src={props.item.default}/>
+             {/* </svg> */}
+                 
             {/* <h2>{props.item.name}</h2>
             <p>{props.item.description}</p>
 
