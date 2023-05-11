@@ -124,12 +124,26 @@
  
   }
   .glowing-text{
+    font-size: 21px;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: cursive;
+    font-variant: stacked-fractions;
+    text-decoration-thickness: from-font;
+    color: ivory;
+    display: block;
+    text-align: center;
+    padding:17px;
+  }
+
+
+  /* .glowing-text{
     display: block;
     text-align: center;
     padding:17px;
     font-weight: bold !important;
     font-size: 20px !important;
-    animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out;
   }
   
   @keyframes glow {
@@ -140,10 +154,21 @@
     to {
       text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
     }
-  }
+  } */
   
-
-  .animatedDiv{
+.animatedDiv{
+  font-size: 21px !important;
+  font-weight: bolder !important;
+  font-style: oblique !important;
+  font-family: cursive !important;
+  font-variant: stacked-fractions !important;
+  text-decoration-thickness: from-font  !important;
+  color: ivory !important;
+  display: block !important;
+  text-align: center !important;
+  padding:17px !important;
+}
+  /* .animatedDiv{
     background: #92B901;
     color: #ffffff;
     position: relative;
@@ -154,7 +179,7 @@
   animation: mymove 10s infinite;
   -moz-animation:  mymove 10s infinite;
   -webkit-animation:  mymove 10s infinite; 
-  }
+  } */
   
 
 @keyframes mymove {
@@ -356,7 +381,22 @@ and (max-device-width: 1000px)
   /* .carousel-container{
     height: 60% !important;
   } */
+
   .animatedDiv{
+    font-size: 21px;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: cursive;
+    font-variant: stacked-fractions;
+    text-decoration-thickness: from-font;
+    color: ivory;
+    display: block;
+    text-align: center;
+    padding:17px;
+  }
+
+
+  /* .animatedDiv{
     background: #92B901;
     color: #ffffff;
     position: relative;
@@ -378,6 +418,6 @@ and (max-device-width: 1000px)
     to {
       text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
     }
-  }
+  } */
   
  }
