@@ -127,10 +127,10 @@
  
   }
   .glowing-text{
-    font-size: 21px;
+    font-size: 24px;
     font-weight: bolder;
     font-style: oblique;
-    font-family: cursive;
+    font-family: revert;
     font-variant: stacked-fractions;
     text-decoration-thickness: from-font;
     color: ivory;
@@ -483,6 +483,16 @@ and (max-device-width: 1000px)
     padding: 17px !important;
     animation: mymove 10s infinite;
     line-height: 30px !important;
+    font-size: 24px !important;
+    font-weight: bolder !important;
+    font-style: oblique !important;
+    font-family: revert !important;
+    font-variant: stacked-fractions !important;
+    text-decoration-thickness: from-font !important;
+    color: ivory !important;
+    display: block !important;
+    text-align: center !important;
+    padding:17px !important;
     /* animation: mymove 10s infinite; */
   }
   /* @keyframes mymove {
