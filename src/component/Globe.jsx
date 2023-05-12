@@ -80,8 +80,8 @@ function CreateGlobe(){
             <img src="./images/rahuldravid/Venki-min.jpeg"/>
             <img src="./images/rahuldravid/Suresh-min.jpg"/>
             <img src="./images/rahuldravid/Ganga-min.jpg"/>
-            <img src="./images/rahuldravid/Sagar-min.jpg"/>
-            <img src="./images/rahuldravid/Yogi-min.jpg"/>
+            <img src="./images/rahuldravid/Raghu-min.jpg"/>
+            <img src="./images/rahuldravid/Sharan-min.jpg"/>
         </div>
         <span className="glowing-text  team-text">
         Rahul Dravid 
@@ -99,7 +99,7 @@ function CreateGlobe(){
             <img src="./images/anilkumble/Thippesh-min.jpeg"/>
             <img src="./images/anilkumble/Vivek-min.jpeg"/>
         </div>
-        <span className="glowing-text  team-text">
+        <span className="glowing-text  team-text" style={{"padding-bottom": "50px","margin-bottom": "30px"}}>
         Anil Kumble 
         </span>
         
