@@ -7,6 +7,7 @@
   /* justify-content: center; */
   flex-direction: row;
   justify-content: space-evenly;
+  overflow-y: inherit !important;
 }
 
 .navbar{
