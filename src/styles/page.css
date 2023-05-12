@@ -434,7 +434,7 @@ and (max-device-width: 1000px)
     margin-bottom: 5px;
   }
   .page{
-    height:92vh;
+    height:100vh;
   }
   body{
     height: 100vh;
