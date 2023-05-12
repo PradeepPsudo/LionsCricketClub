@@ -34,11 +34,15 @@ function DrawerComponent() {
         className="drawer-container"
       >
         <List className="drawer-list">
-        <ListItem onClick={() => setOpenDrawer(false)}>
+        <ListItem className={classes.link} button onClick={() => setOpenDrawer(false)} component={Link} to="/">
+            <ListItemText primary="Home" />
+         </ListItem>
+       
+        {/* <ListItem onClick={() => setOpenDrawer(false)}>
             <ListItemText>
               <Link to="/" className={classes.link}>Home</Link>
             </ListItemText>
-          </ListItem>
+          </ListItem> */}
           <Divider/>
           {/* <ListItem onClick={() => setOpenDrawer(false)}>
             <ListItemText>
@@ -46,17 +50,26 @@ function DrawerComponent() {
             </ListItemText>
           </ListItem>
           <Divider/> */}
-          <ListItem onClick={() => setOpenDrawer(false)}>
+           <ListItem className={classes.link} button onClick={() => setOpenDrawer(false)} component={Link} to="/tournament">
+            <ListItemText primary="Tournament" />
+         </ListItem>
+
+          {/* <ListItem onClick={() => setOpenDrawer(false)}>
             <ListItemText>
               <Link to="/tournament" className={classes.link}>Tournament</Link>
             </ListItemText>
-          </ListItem>
+          </ListItem> */}
           <Divider/>
-          <ListItem onClick={() => setOpenDrawer(false)}>
+
+          <ListItem className={classes.link} button onClick={() => setOpenDrawer(false)} component={Link} to="/playpals">
+            <ListItemText primary="Playpals" />
+         </ListItem>
+
+          {/* <ListItem onClick={() => setOpenDrawer(false)}>
             <ListItemText>
               <Link to="/playpals" className={classes.link}>Playpals</Link>
             </ListItemText>
-          </ListItem>
+          </ListItem> */}
           <Divider/>
         </List>
       </Drawer>

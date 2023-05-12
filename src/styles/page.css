@@ -340,6 +340,12 @@ zoom-in-out-box::before{
 color:navy;
 font-weight: bolder !important;
 }
+.drawer-list >.MuiListItem-root> .MuiListItemText-root > span{
+  color:navy;
+  font-weight: bolder !important;
+  font-size: 20px !important;
+}
+
 
 .sphere{
   margin: auto;
