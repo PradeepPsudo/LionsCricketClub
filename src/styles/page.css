@@ -8,6 +8,7 @@
   flex-direction: row;
   justify-content: space-evenly;
   overflow-y: inherit !important;
+  margin: 0px !important;
 }
 
 .navbar{
@@ -432,8 +433,9 @@ and (max-device-width: 1000px)
   .team-list-container{
     width: 85%;
     color: white !important;
-    height: 100px;
+    /* height: 100px; */
     margin-bottom: 5px;
+    padding-bottom: 80px;
   }
   .page{
     height:100vh !important;
