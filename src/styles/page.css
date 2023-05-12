@@ -434,6 +434,9 @@ and (max-device-width: 1000px)
   .page{
     height:92vh;
   }
+  body{
+    height: 100vh;
+  }
   .imageClass{
     height:80vh;
   }
