@@ -31,28 +31,10 @@
     width: 50%;
     height: 184px;
     padding: 2px;
-    /* width: 200% !important; */
-
-    /* height: 458px !important;
-    width: 317px !important; */
 
     height: 408px !important;
     width: 298px !important;
 
-
-    /* height: 850px !important;
-    width: 551px !important; */
-
-
-    /* margin: 50px; */
-    /* display: flex;
-    width: 100% !important;
-    height: 100% !important;
-    padding: 2px; */
-
-    /* align-items: center; */
-
-    /* justify-content: space-evenly; */
 }
 .card-image-class{
     /* width: 30% !important;; */
@@ -114,8 +96,7 @@
     flex-direction: row;
   }
   .tournamentVersion > div{
-    /* width: 550px !important;
-    height: 400px !important; */
+
     width: 100% !important;
     height: 100% !important;
     max-height: none;
@@ -140,39 +121,9 @@
     text-align: center;
     padding:17px;
   }
-
-
-  /* .glowing-text{
-    display: block;
-    text-align: center;
-    padding:17px;
-    font-weight: bold !important;
-    font-size: 20px !important;
-    animation: glow 1s ease-in-out;
-  }
-  
-  @keyframes glow {
-    from {
-      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
-    }
-    
-    to {
-      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
-    }
-  } */
   
 .animatedDiv{
-  /* font-size: 21px !important;
-  font-weight: bolder !important;
-  font-style: oblique !important;
-  font-family: cursive !important;
-  font-variant: stacked-fractions !important;
-  text-decoration-thickness: from-font  !important;
-  color: ivory !important;
-  display: block !important;
-  text-align: center !important;
-  padding:17px !important;
-  animation: mymove 10s infinite; */
+
   font-size: 21px !important;
     font-weight: bolder !important;
     font-style: oblique !important;
@@ -188,19 +139,6 @@
     line-height: 30px !important;
 }
 
-  /* .animatedDiv{
-    background: #92B901;
-    color: #ffffff;
-    position: relative;
-    font-weight: bold !important;
-    font-size: 20px !important;
-    color: wheat !important;
-    position: relative !important;
-  animation: mymove 10s infinite;
-  -moz-animation:  mymove 10s infinite;
-  -webkit-animation:  mymove 10s infinite; 
-  } */
-  
 
 @keyframes mymove {
   from {left: 0px;}
@@ -247,13 +185,11 @@
   font-size: 30px !important;
     font-weight: bolder !important;
     font-style: oblique !important;
-    font-family: cursive !important;
+    font-family: auto !important;
     font-variant: stacked-fractions !important;
     text-decoration-thickness: from-font !important;
     color: navy !important;
     display: block !important;
-    /* animation: mymove 4s infinite; */
-    /* animation: mymove 4s linear infinite; */
   }
   @keyframes mymove {
     from {left: 0px;}
@@ -262,23 +198,6 @@
 
 
 .zoom-in-out-box {
-  /* margin: 24px;
-  width: 50px;
-  height: 50px; */
-  /* background: 
-#f500cc; */
-  /* position: relative;
-  font-family: sans-serif;
-  text-transform: uppercase;
-  font-size: 2em;
-  letter-spacing: 4px;
-  overflow: hidden;
-  background: linear-gradient(90deg, #000, #fff, #000);
-  background-repeat: no-repeat;
-  background-size: 80%;
-  animation: animate 4s linear infinite;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: rgba(255, 255, 255, 0); */
 
     position: relative;
     font-size: 14vw;
@@ -357,11 +276,7 @@ font-weight: bolder !important;
 }
 
 .sphere img{
-  /* position: absolute;
-  width: 50%;
-  height: 100%;
-  border-radius: 100%;
-  transform: rotateX(30deg) rotateY(30deg); */
+
   position: absolute;
     width: 100%;
     height: 80%;
@@ -460,36 +375,10 @@ and (max-device-width: 1000px)
   } */
 
   .animatedDiv{
-    /* font-size: 21px;
-    font-weight: bolder;
-    font-style: oblique;
-    font-family: cursive;
-    font-variant: stacked-fractions;
-    text-decoration-thickness: from-font;
-    color: ivory;
-    display: block;
-    text-align: center;
-    padding:17px;
-    line-height: 30px !important; */
-
-
-    /* font-size: 21px !important;
-    font-weight: bolder !important;
-    font-style: oblique !important;
-    font-family: cursive !important;
-    font-variant: stacked-fractions !important;
-    text-decoration-thickness: from-font  !important;
-    color: ivory !important;
-    display: block !important;
-    text-align: center !important;
-    padding:17px !important;
-    animation: mymove 10s infinite;
-    line-height: 30px !important; */
-
     font-size: 21px !important;
     font-weight: bolder !important;
     font-style: oblique !important;
-    font-family: cursive !important;
+    font-family: auto !important;
     font-feature-settings: "afrc" !important;
     font-variant: stacked-fractions !important;
     text-decoration-thickness: from-font !important;
@@ -511,34 +400,4 @@ and (max-device-width: 1000px)
     padding:17px !important;
     /* animation: mymove 10s infinite; */
   }
-  /* @keyframes mymove {
-    from {left: 0px;}
-    to {left: 1000px;}
-  } */
-
-
-  /* .animatedDiv{
-    background: #92B901;
-    color: #ffffff;
-    position: relative;
-    font-weight: bold !important;
-    font-size: 20px !important;
-    color: wheat !important;
-    position: relative !important;
-    font-size: 80px;
-    color: #fff;
-    text-align: center;
-    animation: glow 1s ease-in-out infinite alternate;
-  }
-  
-  @keyframes glow {
-    from {
-      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
-    }
-    
-    to {
-      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
-    }
-  } */
-  
  }

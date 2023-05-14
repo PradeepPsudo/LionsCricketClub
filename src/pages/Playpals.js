@@ -9,9 +9,6 @@ function Playpals() {
     <div className="page">
       <br/>
       <br/>
- {/* <Typography className="font-colour"> Faq page</Typography>;
- <DownloadCSV/> */}
- {/* <DisplayImage playpalList={playpalList}/> */}
  <CreateGlobe/>
 
     </div>

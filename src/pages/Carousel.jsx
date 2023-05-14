@@ -73,9 +73,6 @@ function CarouselPanel(props)
 
     return (
         <Carousel stopAutoPlayOnHover={false} interval="3000" animation="slide" duration="1000" autoPlay={true} className='carousel-container'>
-            {/* {
-                items.map( (item, i) => <Item key={i} item={item} /> )
-            } */}
            
              {images.map((item,i)=>{
                 return <Item key={i} item={item}/>

@@ -58,22 +58,8 @@ function Tournament(props) {
           <div className="tournamentVersion">
           <ActionAreaCard  title={tile} onClick={setTournamentVersion}/>
           </div>
-          // <GridListTile key={tile.img}>
-          //   <img src={tile.img} alt={tile.title} />
-          //   {/* <img src="src/assets/season2.jpg" alt={tile.title} /> */}
-          //   <GridListTileBar
-          //     title={tile.title}
-              // subtitle={<span>by: {tile.author}</span>}
-              // actionIcon={
-              //   <IconButton className={classes.icon}>
-              //     <InfoIcon />
-              //   </IconButton>
-              // }
-          //   />
-          // </GridListTile>
         ))}
         </div>
-        {/* {getSeasonDetails(tournament)} */}
         <TeamsList/>
       </GridList>
     </div>
