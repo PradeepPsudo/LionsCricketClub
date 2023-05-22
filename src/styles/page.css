@@ -278,14 +278,14 @@ font-weight: bolder !important;
 .sphere img{
 
   position: absolute;
-    width: 100%;
+    width: 90%;
     height: 80%;
     border-radius: 100%;
     transform: rotateX(30deg) rotateY(30deg);
     object-fit: cover;
     zoom: 1.7;
 }
-.sphere img:nth-child(1){
+/* .sphere img:nth-child(1){
   transform: rotateY(0deg) translateZ(100px);
 }
 .sphere img:nth-child(2){
@@ -317,7 +317,43 @@ font-weight: bolder !important;
 }
 .sphere img:nth-child(11){
   transform: rotateY(360deg) translateZ(100px);
+} */
+
+
+.sphere img:nth-child(1){
+  transform: rotateY(32.72deg) translateZ(100px);
 }
+.sphere img:nth-child(2){
+  transform: rotateY(65.45deg) translateZ(100px);
+}
+.sphere img:nth-child(3){
+  transform: rotateY(98.18deg) translateZ(100px);
+}
+.sphere img:nth-child(4){
+  transform: rotateY(130.90deg) translateZ(100px);
+}
+.sphere img:nth-child(5){
+  transform: rotateY(163.63deg) translateZ(100px);
+}
+.sphere img:nth-child(6){
+  transform: rotateY(196.36deg) translateZ(100px);
+}
+.sphere img:nth-child(7){
+  transform: rotateY(229.09deg) translateZ(100px);
+}
+.sphere img:nth-child(8){
+  transform: rotateY(261.81deg) translateZ(100px);
+}
+.sphere img:nth-child(9){
+  transform: rotateY(294.54deg) translateZ(100px);
+}
+.sphere img:nth-child(10){
+  transform: rotateY(327.27deg) translateZ(100px);
+}
+.sphere img:nth-child(11){
+  transform: rotateY(360deg) translateZ(100px);
+}
+
 
 @keyframes rotate-sphere {
   from{
