@@ -11,7 +11,7 @@ export default function ActionAreaCard({title,onClick}) {
       <CardActionArea onClick={()=>onClick(title.key)}>
         <CardMedia
           component="img"
-          height="140"
+          height="120"
           image={title.img}
           alt="green iguana"
           className="card-image-class"

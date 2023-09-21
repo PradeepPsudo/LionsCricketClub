@@ -9,7 +9,7 @@ export default function TeamsList() {
   return (
     <div className="team-list-container">
         <span className="glowing-text">
-        Here is the details of super six teams
+        Here is the details of super Eight teams
         </span>
         {TournamentTeamList.map((team)=>{
             return(

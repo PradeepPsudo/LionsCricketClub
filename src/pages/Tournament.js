@@ -51,7 +51,7 @@ function Tournament(props) {
     <div className={classes.root}>
       <GridList cellHeight={180} className={classes.gridList}>
         <GridListTile key="Subheader" cols={2} style={{ height: 'auto' }}>
-          <ListSubheader className="animatedDiv" component="div">See you all on 28th of May 2023 at Honnaganatti Ground</ListSubheader>
+          <ListSubheader className="animatedDiv" component="div">See you all on 24th of September 2023 at Honnaganatti Ground</ListSubheader>
         </GridListTile>
         <div className="card-class">
         {TournamentList.map(tile => (
