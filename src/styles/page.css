@@ -104,6 +104,10 @@
     background-color: black;
   }
 
+  .tournamentVersion{
+    height: 100%;
+  }
+
   .team-list-container{
     width:50%;
     color: white !important; 

@@ -4,7 +4,144 @@ import React from 'react';
 function CreateGlobe(){
     return(
         <>
-       <div className="sphere">
+          <div className="sphere">
+            <img src="./images/urrao/img1.jpg"/>
+            <img src="./images/urrao/img2.jpg"/>
+            <img src="./images/urrao/img3.jpg"/>
+            <img src="./images/urrao/img4.jpg"/>
+            <img src="./images/urrao/img5.jpg"/>
+            <img src="./images/urrao/img6.jpg"/>
+            <img src="./images/urrao/img7.jpg"/>
+            <img src="./images/urrao/img8.jpg"/>
+            <img src="./images/urrao/img9.jpg"/>
+            <img src="./images/urrao/img10.jpg"/>
+            <img src="./images/urrao/img11.jpg"/>
+        </div>
+        <span className="glowing-text  team-text">
+        U R Rao 
+        </span>
+
+        <div className="sphere">
+            <img src="./images/bnsuresh/img1.jpg"/>
+            <img src="./images/bnsuresh/img2.jpg"/>
+            <img src="./images/bnsuresh/img3.jpg"/>
+            <img src="./images/bnsuresh/img4.jpg"/>
+            <img src="./images/bnsuresh/img5.jpg"/>
+            <img src="./images/bnsuresh/img6.jpg"/>
+            <img src="./images/bnsuresh/img7.jpg"/>
+            <img src="./images/bnsuresh/img8.jpg"/>
+            <img src="./images/bnsuresh/img9.jpg"/>
+            <img src="./images/bnsuresh/img10.jpg"/>
+            <img src="./images/bnsuresh/img11.jpg"/>
+        </div>
+        <span className="glowing-text  team-text">
+        B N Suresh
+        </span>
+
+        <div className="sphere">
+            <img src="./images/kirankumar/img1.jpg"/>
+            <img src="./images/kirankumar/img2.jpg"/>
+            <img src="./images/kirankumar/img3.jpg"/>
+            <img src="./images/kirankumar/img4.jpg"/>
+            <img src="./images/kirankumar/img5.jpg"/>
+            <img src="./images/kirankumar/img6.jpg"/>
+            <img src="./images/kirankumar/img7.jpg"/>
+            <img src="./images/kirankumar/img8.jpg"/>
+            <img src="./images/kirankumar/img9.jpg"/>
+            <img src="./images/kirankumar/img10.jpg"/>
+            <img src="./images/kirankumar/img11.jpg"/>
+        </div>
+        <span className="glowing-text  team-text">
+        A S Kiran Kumar
+        </span>
+
+
+        <div className="sphere">
+            <img src="./images/satishdhawan/img1.jpg"/>
+            <img src="./images/satishdhawan/img2.jpg"/>
+            <img src="./images/satishdhawan/img3.jpg"/>
+            <img src="./images/satishdhawan/img4.jpg"/>
+            <img src="./images/satishdhawan/img5.jpg"/>
+            <img src="./images/satishdhawan/img6.jpg"/>
+            <img src="./images/satishdhawan/img7.jpg"/>
+            <img src="./images/satishdhawan/img8.jpg"/>
+            <img src="./images/satishdhawan/img9.jpg"/>
+            <img src="./images/satishdhawan/img10.jpg"/>
+            <img src="./images/satishdhawan/img11.jpg"/>
+        </div>
+        <span className="glowing-text  team-text">
+        Satish Dhawan
+        </span>
+
+        <div className="sphere">
+            <img src="./images/cvraman/img1.jpg"/>
+            <img src="./images/cvraman/img2.jpg"/>
+            <img src="./images/cvraman/img3.jpg"/>
+            <img src="./images/cvraman/img4.jpg"/>
+            <img src="./images/cvraman/img5.jpg"/>
+            <img src="./images/cvraman/img6.jpg"/>
+            <img src="./images/cvraman/img7.jpg"/>
+            <img src="./images/cvraman/img8.jpg"/>
+            <img src="./images/cvraman/img9.jpg"/>
+            <img src="./images/cvraman/img10.jpg"/>
+            <img src="./images/cvraman/img11.jpg"/>
+        </div>
+        <span className="glowing-text  team-text">
+        C V Raman
+        </span>
+
+        <div className="sphere">
+            <img src="./images/madhavannair/img1.jpg"/>
+            <img src="./images/madhavannair/img2.jpg"/>
+            <img src="./images/madhavannair/img3.jpg"/>
+            <img src="./images/madhavannair/img4.jpg"/>
+            <img src="./images/madhavannair/img5.jpg"/>
+            <img src="./images/madhavannair/img6.jpg"/>
+            <img src="./images/madhavannair/img7.jpg"/>
+            <img src="./images/madhavannair/img8.jpg"/>
+            <img src="./images/madhavannair/img9.jpg"/>
+            <img src="./images/madhavannair/img10.jpg"/>
+            <img src="./images/madhavannair/img11.jpg"/>
+        </div>
+        <span className="glowing-text  team-text">
+        G Madhavan Nair
+        </span>
+
+        <div className="sphere">
+            <img src="./images/vikramsarabhai/img1.jpg"/>
+            <img src="./images/vikramsarabhai/img2.jpg"/>
+            <img src="./images/vikramsarabhai/img3.jpg"/>
+            <img src="./images/vikramsarabhai/img4.jpg"/>
+            <img src="./images/vikramsarabhai/img5.jpg"/>
+            <img src="./images/vikramsarabhai/img6.jpg"/>
+            <img src="./images/vikramsarabhai/img7.jpg"/>
+            <img src="./images/vikramsarabhai/img8.jpg"/>
+            <img src="./images/vikramsarabhai/img9.jpg"/>
+            <img src="./images/vikramsarabhai/img10.jpg"/>
+            <img src="./images/vikramsarabhai/img11.jpg"/>
+        </div>
+        <span className="glowing-text  team-text">
+        Vikram Sarabhai
+        </span>
+
+        <div className="sphere">
+            <img src="./images/abdulkalam/img1.jpg"/>
+            <img src="./images/abdulkalam/img2.jpg"/>
+            <img src="./images/abdulkalam/img3.jpg"/>
+            <img src="./images/abdulkalam/img4.jpg"/>
+            <img src="./images/abdulkalam/img5.jpg"/>
+            <img src="./images/abdulkalam/img6.jpg"/>
+            <img src="./images/abdulkalam/img7.jpg"/>
+            <img src="./images/abdulkalam/img8.jpg"/>
+            <img src="./images/abdulkalam/img9.jpg"/>
+            <img src="./images/abdulkalam/img10.jpg"/>
+            <img src="./images/abdulkalam/img11.jpg"/>
+        </div>
+        <span className="glowing-text  team-text">
+        Dr APJ Abdul kalam
+        </span>
+
+       {/* <div className="sphere">
             <img src="./images/javagalsrinath/Darshan-min.jpeg"/>
             <img src="./images/javagalsrinath/Ganesh-min.jpeg"/>
             <img src="./images/javagalsrinath/Giri-min.jpeg"/>
@@ -19,8 +156,8 @@ function CreateGlobe(){
         </div>
         <span className="glowing-text  team-text">
         Javagal Srinath 
-        </span>
-        <div className="sphere">
+        </span> */}
+        {/* <div className="sphere">
             <img src="./images/teamvenkateshprasad/adarsh-min.jpg"/>
             <img src="./images/teamvenkateshprasad/babanna-min.jpg"/>
             <img src="./images/teamvenkateshprasad/chethu-min.jpg"/>
@@ -102,7 +239,7 @@ function CreateGlobe(){
         <span className="glowing-text  team-text" style={{"padding-bottom": "50px","margin-bottom": "30px"}}>
         Anil Kumble 
         </span>
-        
+         */}
         </>
         
        
