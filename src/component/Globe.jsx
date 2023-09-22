@@ -109,7 +109,7 @@ function CreateGlobe(){
 
         <div className="sphere">
             <img src="./images/vikramsarabhai/img1.jpg"/>
-            <img src="./images/vikramsarabhai/img2.jpg"/>
+            <img src="./images/vikramsarabhai/img22.jpg"/>
             <img src="./images/vikramsarabhai/img3.jpg"/>
             <img src="./images/vikramsarabhai/img4.jpg"/>
             <img src="./images/vikramsarabhai/img5.jpg"/>
@@ -125,7 +125,7 @@ function CreateGlobe(){
         </span>
 
         <div className="sphere">
-            <img src="./images/abdulkalam/img1.jpg"/>
+            <img src="./images/abdulkalam/img12.jpg"/>
             <img src="./images/abdulkalam/img2.jpg"/>
             <img src="./images/abdulkalam/img3.jpg"/>
             <img src="./images/abdulkalam/img4.jpg"/>
