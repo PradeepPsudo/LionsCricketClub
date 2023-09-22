@@ -137,6 +137,7 @@ function CreateGlobe(){
             <img src="./images/abdulkalam/img10.jpg"/>
             <img src="./images/abdulkalam/img11.jpg"/>
         </div>
+        
         <span className="glowing-text  team-text">
         Dr APJ Abdul kalam
         </span>
